@@ -1,7 +1,7 @@
 site_name: StarCat Brands
 theme:
   name: material
-  logo: localassets/STARCAT-HEAD-LOGO-BLACK-TRANSPARENT.svg
+  logo: localassets/StarCat_Headshot_Transparent_052233-Dkst-Blue.svg
   favicon: localassets/favicon-32x32.png
   palette: 
     # Palette toggle for light mode
