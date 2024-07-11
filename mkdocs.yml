@@ -41,7 +41,7 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
-      permalink_title: Link to this heading
+      permalink_title: 
       title: On this page
       slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
   - pymdownx.keys:
@@ -61,9 +61,24 @@ plugins:
       fallback_to_build_date: true
       exclude:
         - index.md
+        - contact/*
   - search
   - awesome-pages
-copyright: CC &copy; 2024 | StarCat Brands
+  - typeset:
+      enabled: true
+  - privacy:
+      enabled: true
+      cache: false
+      cache_dir: .cache/plugins/privacy
+      log: true
+      assets: false
+      assets_fetch: false
+      assets_fetch_dir: assets/external
+      links: true
+      links_noopener: true
+      links_attr_map:
+        target: _blank
+copyright: Copyright &copy; 2024 StarCat Brands | CC BY-SA 4.0
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
