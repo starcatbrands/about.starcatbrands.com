@@ -1,6 +1,6 @@
 # about.starcatbrands.com
 ![GitHub branch check runs](https://img.shields.io/github/check-runs/starcatbrands/about.starcatbrands.com/main)
- ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/starcatbrands/about.starcatbrands.com/main)
+ [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/starcatbrands/about.starcatbrands.com/main)](https://github.com/starcatbrands/about.starcatbrands.com/commits/main/)
  [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This repository contains the source documentation for the [about.starcatbrands.com](https://about.starcatbrands.com) documentation.
