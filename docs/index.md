@@ -9,7 +9,7 @@
 Quick links for commonly-accessed sites, pages, and sections:
 
 [:fontawesome-solid-user-astronaut: StarCat Brands - Homepage](https://starcatbrands.com)  
-[:fontawesome-solid-satellite-dish: Ground Control (control and billing panel)](https://groundcontrol.starcat.app)  
+[:fontawesome-solid-satellite-dish: Ground Control](https://groundcontrol.starcat.app)  
 
 
 ## :material-cat: About StarCat Brands
