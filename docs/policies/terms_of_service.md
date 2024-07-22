@@ -2,9 +2,9 @@
 Effective date: 2024-07-11
 
 !!! warning "Please Note:"
-    StarCat Brands makes multiple projects/products. These Terms of Service apply to all projects/products made by StarCat Brands, unless otherwise noted within the individual project/product.
+    StarCat Brands builds multiple products/services. These Terms of Service apply to all products/services built by StarCat Brands, unless otherwise noted within the individual project/product.
 
-    A full list of projects/products can be found on the [StarCat Brands Homepage](https://starcatbrands.com) or at [https://about.starcatbrands.com/general/service_domains/](https://about.starcatbrands.com/general/service_domains/).
+    A full list of products/services can be found on the [StarCat Brands Homepage](https://starcatbrands.com) or at [https://about.starcatbrands.com/general/service_domains/](https://about.starcatbrands.com/general/service_domains/).
 
 ## StarCat Brands Terms of Service
 ### 0. Welcome
@@ -12,7 +12,7 @@ Thank you for using StarCat Brands Services! We’re happy you’re here. Please
 
 Welcome and thank you for your interest in StarCat Companies LLC. (“StarCat Brands”, "StarCat", "SCB", "we", "us"). These Terms of Service (this “Agreement”) describes the terms and conditions that apply to your use of our websites as listed at [https://about.starcatbrands.com/general/service_domains/](https://about.starcatbrands.com/general/service_domains/) (collectively, the “Websites”) and the products, services, content and other resources available on or enabled via our Websites (collectively, the “SCB Services”). By registering for an account, clicking the “I Accept” button, or using the SCB Services in any way, you or the entity you represent (the “Customer”) are unconditionally consenting to be bound by and becoming a party to this Agreement with StarCat Brands. If you are entering into this Agreement on behalf of an entity, you represent and warrant that you have the authority to bind such entity to these terms.
 
-The SCB Services may contain or otherwise make available certain third-party software and/or services which are subject to additional licensing terms (collectively, the “Subprocessor Terms”). StarCat Brands will maintain and periodically update the Subprocessor Terms at [https://about.starcatbrands.com/policies/subprocessor_terms/](https://about.starcatbrands.com/policies/subprocessor_terms/). By using third-party software through the SCB Services, Customer consents to the applicable Sub-processor Terms associated and other terms and conditions tied to the use of such third-party software and/or services. Customer may not access or use the SCB Services if it does not agree with these Subprocessor Terms.
+The SCB Services may contain or otherwise make available certain third-party software and/or services which are subject to additional licensing terms (collectively, the “Subprocessor Terms”). StarCat Brands will maintain and periodically update the Subprocessor Terms at [https://about.starcatbrands.com/policies/subprocessor_terms/](https://about.starcatbrands.com/policies/subprocessor_terms/). By using third-party software through the SCB Services, Customer consents to the applicable Subprocessor Terms associated and other terms and conditions tied to the use of such third-party software and/or services. Customer may not access or use the SCB Services if it does not agree with these Subprocessor Terms.
 
 IF YOU SUBSCRIBE TO ANY FEATURE OR FUNCTIONALITY OF THE SCB SERVICES, THEN YOUR SUBSCRIPTION WILL AUTOMATICALLY RENEW FOR ADDITIONAL PERIODS OF THE SAME DURATION AS THE INITIAL TERM AT THE SCB SERVICE'S THEN CURRENT FEES FOR SUCH FEATURES AND FUNCTIONALITY UNLESS YOU OPT OUT OF THE AUTOMATIC RENEWAL PROCESS, AS SPECIFIED IN SECTION 9.2.
 
@@ -76,7 +76,7 @@ Customer will defend at its expense any suit brought against StarCat Brands, and
 
 ### 11. Agreement Updates
 1. When changes are made, StarCat Brands will make a new copy of this Agreement available on the Services and will also update the “Last Updated” date at the top of this Agreement. For any material changes, StarCat Brands will send Customer an updated copy of this Agreement to the email address tied to Customer’s account. Unless otherwise stated in such update, any changes to this Agreement will be effective immediately for new customers and thirty (30) days after posting for existing customers. StarCat Brands may require customers to provide consent to the updated Agreement in a specified manner before further use of the SCB Services is permitted. IF CUSTOMER DOES NOT AGREE TO ANY CHANGE(S) AFTER RECEIVING A NOTICE OF SUCH CHANGE(S), CUSTOMER SHALL STOP USING THE SCB SERVICES.
-2. A log of revisions to this Agreement will be logged at the bottom of this document. Additionally, all revisions to this document can be found at [https://github.com/starcatbrands/about.starcatbrands.com/commits/main/docs/policies/terms_of_service.md](https://github.com/starcatbrands/about.starcatbrands.com/commits/main/docs/policies/terms_of_service.md).
+2. You can find a history of revisions and sign up to get notified of future changes to this and all StarCat Brands policies by following the steps on our [Updates page](updates.md).
 
 ### 12. Definitions
 As used in this agreement:
@@ -93,8 +93,3 @@ As used in this agreement:
 1. If you have any questions about these Terms, please contact us at: `legal@starcatbrands.com`.
 2. If you wish to make any complaint or claim with respect to the Services, please contact us at: `hello@starcatbrands.com`
 3. When submitting a complaint, please provide a brief description of the nature of your complaint and the specific SCB Service(s) to which your complaint relates.
-
----
-## History of Changes:
-### 2024-07-11
-First version.
