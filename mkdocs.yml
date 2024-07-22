@@ -1,22 +1,22 @@
 site_name: StarCat Brands
 theme:
   name: material
-  logo: localassets/StarCat_Headshot_Transparent_052233-Dkst-Blue.svg
+  logo: localassets/StarCat_Headshot-Only_Light-HC.svg
   favicon: localassets/favicon-32x32.png
   palette: 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: white
-      accent: cyan
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/weather-sunny 
         name: Switch to dark mode
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: white
-      accent: cyan
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/weather-night
         name: Switch to light mode
