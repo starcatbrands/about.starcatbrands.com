@@ -33,8 +33,10 @@ You can check your current subscriptions, past and current invoices, and payment
 If you need additional assistance, reach out to `billing@starcatbrands.com` or click [:material-email-outline: this link](mailto:billing@starcatbrands.com) to open your email client.
 
 ### :material-shield-half-full: Bugs, Security, & Abuse
-StarCat Brands publishes [Responsible Bug Reporting](../policies/bug_reporting.md) and [Abuse](../policies/abuse.md) policies that apply to all of our projects.
+StarCat Brands publishes [Responsible Bug Reporting](../policies/bug_reporting.md) and [Acceptable Use](../policies/acceptable_use_policy.md) policies that apply to all of our projects.
 
 Please report all bugs to `bugs@starcatbrands.com`. This email address can be used for any kind of bug of any severity.
 
 If you believe you’ve discovered a serious critical security issue, please contact `security@starcatbrands.com`. If you use PGP encryption, you can find the security PGP key [:octicons-key-24: here](pgp_keys.md/#securitystarcatbrandscom).
+
+Please report abuse of any kind as listed in our [Abuse Policy](../policies/abuse.md).
