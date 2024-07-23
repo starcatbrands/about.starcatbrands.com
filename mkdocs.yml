@@ -31,6 +31,8 @@ theme:
     - content.code.select
     - content.tooltips
     - content.footnote.tooltips
+    - toc.follow
+    - navigation.top
 markdown_extensions:
   - admonition
   - tables
@@ -40,7 +42,7 @@ markdown_extensions:
   - attr_list
   - footnotes
   - toc:
-      permalink: true
+      permalink: ⚓︎
       permalink_title: 
       title: On this page
       slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
