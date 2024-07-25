@@ -5,7 +5,7 @@
 ## :material-cat: General Contact
 If you're reaching out about StarCat Brands (the company), or if you can't find a better option in this list, please email `hello@starcatbrands.com` or click [:material-email-outline: this link](mailto:hello@starcatbrands.com) to open your email client.
 
-## :material-sitemap-outline: Project-Specific Contact
+## :material-sitemap-outline: Service-Specific Contact
 For support or other contact related to specific projects, please use the following email addresses:
 
 ### :material-ghost: Casper Blog Supply
