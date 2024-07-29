@@ -64,6 +64,7 @@ plugins:
       exclude:
         - index.md
         - contact/*
+        - help/*
   - search
   - awesome-pages
   - typeset:
